@@ -1,0 +1,6 @@
+export const GOOGLE_LOGIN="GOOGLE_LOGIN"
+export const FACEBOOK_LOGIN="FACEBOOK_LOGIN"
+export const INSTAGRAM_LOGIN="INSTAGRAM_LOGIN"
+export const OTP_LOGIN="OTP_LOGIN"
+export const USER_DATA="USER_DATA"
+
